@@ -1,3 +1,24 @@
 * https://www.udemy.com/python-gui-programming/#/
 
 * Lecture 1 Introduction
+** Recommends PyCharm
+** Based on Rapid GUI Development with Python and QT by Summerfield
+*** Good Resource book, but dry
+** QT
+*** Currently owned by Digia
+*** Originally in C++, lots of language bindings (PyQT (GPL), PySide (LGPL)  and PythonForQT)
+*** We use PySide in this class -- Documentation is written in Python, PyQT docs are in C++
+*** Cross Platform -- pretty much any target
+*** Attempts to look like native platform
+*** Much more than a GUI toolkit
+** Important Web Sites
+*** http://qt.digia.com  Do not download from here!
+*** http://qt-project.org/wiki/PySide -- Download binaries from here!, problems with 64 bit machines?
+*** http://srinikom.github.io/pyside-docs/ -- Documentation
+**** Documentation good but not great, looks like automatically done to convert from C++ to Python
+**** Still on version 1.0.7 which is NOT the latest
+
+** Using 2.7 in this course!
+
+
+

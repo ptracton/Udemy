@@ -1,0 +1,7 @@
+c:\Python32\Lib\site-packages\PyQt4\pyuic4.bat untitled.ui > foo.py
+
+http://talk.maemo.org/archive/index.php/t-43663.html
+
+http://stackoverflow.com/questions/2398800/linking-a-qtdesigner-ui-file-to-python-pyqt
+
+http://www.matteomattei.com/en/pyside-and-qtdesigner/

@@ -37,8 +37,10 @@
       <file leaf-file-name="std_dialogs.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../../Lecture10/std_dialogs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="17" selection-start="2321" selection-end="2321" vertical-scroll-proportion="0.5889047" vertical-offset="759" max-vertical-offset="1649">
-              <folding />
+            <state line="4" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.091038406" vertical-offset="4" max-vertical-offset="1683">
+              <folding>
+                <element signature="e#1#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -410,8 +412,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Lecture10/std_dialogs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="17" selection-start="2321" selection-end="2321" vertical-scroll-proportion="0.5889047" vertical-offset="759" max-vertical-offset="1649">
-          <folding />
+        <state line="4" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.091038406" vertical-offset="4" max-vertical-offset="1683">
+          <folding>
+            <element signature="e#1#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -27,6 +27,7 @@ class Program(QDialog):
         self.setLayout(layout)
 
         openButton.clicked.connect(self.open)
+        saveButton.clicked.connect(self.save)
 
 
     def open(self):
@@ -40,8 +41,20 @@ class Program(QDialog):
         print (fileObj)
         print (type(fileObj))
 
+        file = open(fileObj, "r")
+        read = file.read()
+        file.close()
+        print (read)
 
+    def save(self):
+        dir = "."
+        fileObj = QFileDialog.getSaveFileName(parent=self, directory = dir, filter= "Text Files (*.txt)")
 
+        print (fileObj)
+        print (type(fileObj))
+
+        contents = "PyQT works!"
+        open(fileObj, mode="w").write(contents)
 
 app = QApplication(sys.argv)
 form = Program()

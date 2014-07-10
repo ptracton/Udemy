@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../Lecture10/qt-designer.py" line="7" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5b805433-d33a-4990-b52a-c596c81824e6" name="Default" comment="" />
     <ignored path="built_in_dialogs.iws" />
@@ -23,33 +26,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dialogs.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dialogs.py">
+      <file leaf-file-name="main_ui.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Lecture15/main_ui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1190">
-              <folding>
-                <element signature="e#79#105#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="std_dialogs.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../Lecture10/std_dialogs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.091038406" vertical-offset="4" max-vertical-offset="1683">
-              <folding>
-                <element signature="e#1#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom_signals.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Lecture06/custom_signals/custom_signals.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="1343">
+            <state line="17" column="34" selection-start="418" selection-end="418" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resource_file.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../Lecture15/resource_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="24" selection-start="105" selection-end="105" vertical-scroll-proportion="0.14509246" vertical-offset="0" max-vertical-offset="703">
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,6 +58,9 @@
       <list>
         <option value="$PROJECT_DIR$/dialogs.py" />
         <option value="$PROJECT_DIR$/../../Lecture10/std_dialogs.py" />
+        <option value="$PROJECT_DIR$/../../Lecture10/qt-designer.py" />
+        <option value="$PROJECT_DIR$/../../Lecture14/MainWindow/mainwindow.py" />
+        <option value="$PROJECT_DIR$/../../Lecture15/resource_file.py" />
       </list>
     </option>
   </component>
@@ -115,7 +110,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="built_in_dialogs" />
+              <option name="myItemId" value="Lecture15" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -128,12 +123,12 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="reference.settings.ide.settings.web.browsers" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lecture10/std_dialogs.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.std_dialogs">
+  <component name="RunManager" selected="Python.resource_file">
     <configuration default="false" name="dialogs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,6 +160,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="built_in_dialogs" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Lecture10/std_dialogs.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="qt-designer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Lecture10" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="built_in_dialogs" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Lecture10/qt-designer.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="resource_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Lecture15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Lecture15" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Lecture15/resource_file.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -291,14 +322,18 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.dialogs" />
       <item index="1" class="java.lang.String" itemvalue="Python.std_dialogs" />
+      <item index="2" class="java.lang.String" itemvalue="Python.qt-designer" />
+      <item index="3" class="java.lang.String" itemvalue="Python.resource_file" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.std_dialogs" />
-        <item index="1" class="java.lang.String" itemvalue="Python.dialogs" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.resource_file" />
+        <item index="1" class="java.lang.String" itemvalue="Python.qt-designer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.std_dialogs" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dialogs" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +354,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14791666" sideWeight="0.67250925" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22135417" sideWeight="0.67250925" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -343,7 +378,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dialogs.py">
@@ -396,25 +433,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Lecture06/custom_signals/custom_signals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1292">
+        <state line="32" column="0" selection-start="854" selection-end="854" vertical-scroll-proportion="0.29018492" vertical-offset="289" max-vertical-offset="1292">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dialogs.py">
+    <entry file="file://$PROJECT_DIR$/../../Lecture14/MainWindow/mainwindow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1190">
+        <state line="4" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.09672831" vertical-offset="0" max-vertical-offset="703">
           <folding>
-            <element signature="e#79#105#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Lecture10/qt-designer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="564" selection-end="637" vertical-scroll-proportion="0.43527737" vertical-offset="0" max-vertical-offset="703">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Lecture10/std_dialogs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.091038406" vertical-offset="4" max-vertical-offset="1683">
+        <state line="75" column="59" selection-start="2411" selection-end="2458" vertical-scroll-proportion="0.41963017" vertical-offset="980" max-vertical-offset="1683">
           <folding>
             <element signature="e#1#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialogs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="666" selection-end="666" vertical-scroll-proportion="0.17496444" vertical-offset="336" max-vertical-offset="1190">
+          <folding>
+            <element signature="e#79#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Lecture15/main_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="34" selection-start="418" selection-end="418" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Lecture13/qt-designer/showGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="57" selection-start="476" selection-end="476" vertical-scroll-proportion="0.43527737" vertical-offset="0" max-vertical-offset="731">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Lecture15/resource_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="24" selection-start="105" selection-end="105" vertical-scroll-proportion="0.14509246" vertical-offset="0" max-vertical-offset="703">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>

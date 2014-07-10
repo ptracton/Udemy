@@ -1,0 +1,8 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+     <file>icons/cheshire_cat_32.png</file>
+     <file>icons/geek_zombie_32.png</file>
+     <file>icons/pumpkin_32.png</file>
+     <file>icons/ninja_ghost_32.png</file>
+ </qresource>
+ </RCC>

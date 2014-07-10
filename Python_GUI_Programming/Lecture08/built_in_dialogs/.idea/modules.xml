@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Lecture15/.idea/Lecture15.iml" filepath="$PROJECT_DIR$/../../Lecture15/.idea/Lecture15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Lecture14/MainWindow/.idea/MainWindow.iml" filepath="$PROJECT_DIR$/../../Lecture14/MainWindow/.idea/MainWindow.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/built_in_dialogs.iml" filepath="$PROJECT_DIR$/.idea/built_in_dialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Lecture13/qt-designer/.idea/qt-designer.iml" filepath="$PROJECT_DIR$/../../Lecture13/qt-designer/.idea/qt-designer.iml" />
     </modules>
   </component>
 </project>
